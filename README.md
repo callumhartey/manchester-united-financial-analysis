@@ -1,5 +1,7 @@
 # Manchester United Financial Analysis | 2021–2025
 
+![Manchester United Financial Analysis Dashboard](Manchester%20United%20Financial%20Analysis%20Dashboard.jpg)
+
 ## Project Overview
 
 I built this project to analyse how Manchester United's financial performance has changed over the last five years, while developing my Excel and financial analysis skills.
